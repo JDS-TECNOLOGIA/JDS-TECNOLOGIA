@@ -9,14 +9,14 @@ Na JDS Tecnologia, acreditamos que a tecnologia deve ser uma facilitadora, não 
 Nosso propósito: Devolver a você tempo precioso e lucratividade, transformando complexidade em simplicidade, para que você possa se concentrar no coração do seu negócio.
 
     🔑 As Soluções Que Destravam Seu Potencial:
-🤝Integrações Perfeitas: Faça seus sistemas trabalharem em sintonia, eliminando silos e retrabalho. 
-📊ERPs Otimizados: Tenha a visão 360º que você sempre quis sobre sua operação. 
-🔗APIs que Conectam: Abra as portas para novas parcerias e inovações, sem complicação. 
-🧠✨Inteligência Artificial e RAG/LLMs Descomplicadas: Desbloqueie o poder dos dados para tomar decisões mais espertas e automatizar o impossível. 
-⚙️🤖Automação Sob Medida: Diga adeus às tarefas repetitivas e libere sua equipe para o que realmente importa, tanto na indústria quanto no comércio. 
-💬Bots e Robôs Inteligentes: Tenha assistentes virtuais e automatize rotinas para maximizar sua eficiência. 
-💡➡️✅Da Ideia à Implantação: Nós cuidamos de tudo, do conceito à entrega, garantindo uma jornada tranquila e poderosa. 
-E para entregar o melhor, trabalhamos com as plataformas mais robustas do mundo: Google Cloud ☁️, Azure 🔵 e AWS 🟠.
+🤝Integrações Perfeitas: Faça seus sistemas trabalharem em sintonia, eliminando silos e retrabalho.\
+📊ERPs Otimizados: Tenha a visão 360º que você sempre quis sobre sua operação. \
+🔗APIs que Conectam: Abra as portas para novas parcerias e inovações, sem complicação. \
+🧠✨Inteligência Artificial e RAG/LLMs Descomplicadas: Desbloqueie o poder dos dados para tomar decisões mais espertas e automatizar o impossível. \
+⚙️🤖Automação Sob Medida: Diga adeus às tarefas repetitivas e libere sua equipe para o que realmente importa, tanto na indústria quanto no comércio. \
+💬Bots e Robôs Inteligentes: Tenha assistentes virtuais e automatize rotinas para maximizar sua eficiência. \
+💡➡️✅Da Ideia à Implantação: Nós cuidamos de tudo, do conceito à entrega, garantindo uma jornada tranquila e poderosa. \
+E para entregar o melhor, trabalhamos com as plataformas mais robustas do mundo: Google Cloud ☁️, Azure 🔵 e AWS 🟠.\
 
     Por Que Acelerar Com a JDS Tecnologia?
 Experiência Que Faz a Diferença: Com a bagagem de John L. Cruz e uma equipe de especialistas, você tem a segurança de estar com quem entende do assunto, garantindo que sua empresa esteja sempre à frente. 🏆
