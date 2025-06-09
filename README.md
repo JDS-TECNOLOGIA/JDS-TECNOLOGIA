@@ -1,4 +1,4 @@
-################################################  JDS TECNOLOGIA  #########################################################
+###################################  JDS TECNOLOGIA  ###################################
 
     🧩 Nossa Jornada:
 Fundada há 4 anos por John L. Cruz, um líder com mais de uma década de experiência em arquitetura de software e automação, a JDS Tecnologia é o catalisador que sua empresa precisa para o futuro digital.
